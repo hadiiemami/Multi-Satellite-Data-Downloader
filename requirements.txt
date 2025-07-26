@@ -1,0 +1,7 @@
+sentinelsat>=1.1.0 
+geopandas>=0.10.0 
+requests>=2.25.0 
+jupyter>=1.0.0 
+openeo>=0.8.0 
+rasterio>=1.2.0 
+matplotlib>=3.4.0
